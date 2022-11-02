@@ -24,7 +24,7 @@ body{
 
 h1 {
     text-align: center;
-    margin: auto;       /* double check this */
+    margin: auto;
     font-family: Helvetica, sans-serif;
 }
 
@@ -78,7 +78,7 @@ img{
     margin-bottom: 3.5em;
 }
 
-@media screen and (min-width: 400px){
+@media screen and (min-width: 600px){
     div.alert-info{
         display: none;
     }
